@@ -118,8 +118,10 @@ const skillData = {
             { name: 'HTML5',      img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg' },
             { name: 'CSS3',       img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg' },
             { name: 'JavaScript', img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' },
-            { name: 'Tailwind CSS', img: 'https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg' }
-        ]
+            { name: 'Tailwind CSS', img: 'https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg' },
+            { name: 'React' , img: 'https://www.qualium-systems.com/wp-content/uploads/2015/12/react-js-img.png'} ,
+
+            ]
     },
     tech: {
         icon : '⚙️',
